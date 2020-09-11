@@ -150,4 +150,6 @@ img { max-width: 86vw; }
 
 @media (min-width: 768px) { .testimonial-show .back-to-list-link { float: right; padding-top: .75em; } }
 
+.testimonial-show .testimonial-quote { font-style: italic; text-align: center; }
+
 /*# sourceMappingURL=styles.css.map */
